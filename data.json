@@ -1,0 +1,20 @@
+{
+    "Vorname" : "Manuel",
+    "nachname" : "Meyer",
+    "zahlungshöhe" : {
+        "1": {
+            "datum" : "03.02.2018",
+            "betrag" : 120.90
+        },
+        "2":{
+            "datum" : "03.03.2018",
+            "betrag" : 100.90
+        },
+        "3": {
+            "datum" : "03.04.2018",
+            "betrag" : 80.90
+        }
+
+    }
+
+}
