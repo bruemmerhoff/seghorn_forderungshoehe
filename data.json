@@ -1,6 +1,7 @@
 {
-    "Vorname" : "Ridder",
+    "Vorname" : "",
     "nachname" : "Merle",
+    "restforderung" : "85.90",
     "zahlungen" : {
         "1": {
             "datum" : "03.02.2018",
