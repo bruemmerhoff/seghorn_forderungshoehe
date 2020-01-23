@@ -1,18 +1,18 @@
 {
-    "Vorname" : "Manuel",
-    "nachname" : "Meyer",
+    "Vorname" : "Ridder",
+    "nachname" : "Merle",
     "zahlungen" : {
         "1": {
             "datum" : "03.02.2018",
-            "betrag" : 120.90
+            "betrag" : 1200.90
         },
         "2":{
             "datum" : "03.03.2018",
-            "betrag" : 100.90
+            "betrag" : 1000.90
         },
         "3": {
             "datum" : "03.04.2018",
-            "betrag" : 80.90
+            "betrag" : 800.90
         }
 
     }
