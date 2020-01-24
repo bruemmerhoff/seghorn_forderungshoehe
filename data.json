@@ -5,15 +5,15 @@
     "zahlungen" : {
         "1": {
             "datum" : "03.02.2018",
-            "betrag" : 1200.90
+            "betrag" : 50
         },
         "2":{
             "datum" : "03.03.2018",
-            "betrag" : 1000.90
+            "betrag" : 50
         },
         "3": {
             "datum" : "03.04.2018",
-            "betrag" : 800.90
+            "betrag" : 50
         }
 
     }
