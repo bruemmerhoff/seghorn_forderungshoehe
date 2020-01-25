@@ -1,11 +1,11 @@
 {
-    "Vorname" : "Jessi",
-    "nachname" : "Filip",
-    "restforderung" : 850.90,
+    "Vorname" : "Eva",
+    "nachname" : "Brümmerhoff",
+    "restforderung" : 2222.90,
     "zahlungen" : {
         "1": {
             "datum" : "03.02.2018",
-            "betrag" : 50
+            "betrag" : 27
         },
         "2":{
             "datum" : "03.03.2018",
