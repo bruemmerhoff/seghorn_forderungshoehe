@@ -1,7 +1,7 @@
 {
-    "Vorname" : "Luisa",
-    "nachname" : "Müller",
-    "restforderung" : 90.89,
+    "Vorname" : "Theresa",
+    "nachname" : "Gröninger",
+    "restforderung" : 120.98,
     "zahlungen" : {
         "1": {
             "datum" : "03.02.2018",
